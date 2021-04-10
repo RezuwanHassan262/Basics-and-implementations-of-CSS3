@@ -1,0 +1,29 @@
+header{
+  color:white;
+  background-color:#a9a9a9;
+}
+h1{
+  text-transform: uppercase;
+  text-align: center;
+
+}
+a{
+  color: black;
+  background-color:#c0c0c0;
+  text-align: left;
+}
+img{
+  display: none;
+}
+
+section{
+  background-color:#696969;
+}
+h2{
+    text-transform: uppercase;
+  color:#000080;
+}
+
+p{
+  background-color:#696969;
+}
